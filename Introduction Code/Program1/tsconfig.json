@@ -1,0 +1,11 @@
+{
+    "include": ["Assignment1/src"],
+    "exclude": ["node_modules"],
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "Assignment1/build",
+        "target": "es2017",
+        "declaration": true,
+        "sourceMap": true
+    }
+}
